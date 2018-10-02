@@ -109,7 +109,7 @@ setTimeout(function mainFunc() {
      },65000);
 
       setTimeout(function() {
-       newText("4","No Captions Neeeded");
+       newText("4","No Captions Needed");
      },69000);
 
       setTimeout(function(){
@@ -144,15 +144,15 @@ setTimeout(function mainFunc() {
       },91000);
 
       setTimeout(function() {
-        newText("6","With all the horrible shit I do");
+        newText("6","With all the horrible shit I do..");
       },95000);
 
       setTimeout(function() {
-       newText("6","You are always there to screw me !!");
+       newText("6","..You are always there to screw me !!");
      },99000);
 
       setTimeout(function() {
-       newText("6","But paani abhi bhi nahi dunga");
+       newText("6","..But paani abhi bhi nahi dunga");
      },103000);
 
       setTimeout(function(){
@@ -166,15 +166,15 @@ setTimeout(function mainFunc() {
       },108000);
 
       setTimeout(function() {
-        newText("7","Enjoy kar, chicken phaad, hilla");
+        newText("7","Enjoy kar, chicken phaad, hilla..");
       },112000);
 
       setTimeout(function() {
-       newText("7","Bandiyan gayi gand marane");
+       newText("7",".. Aur bandiyan gayi gand marane");
      },116000);
 
       setTimeout(function() {
-       newText("7","Tera bhai blowjob dega");
+       newText("7","Tera bhai dega na blowjob tujhe");
      },122000);
 
       setTimeout(function(){
@@ -216,14 +216,3 @@ $(".loader").fadeOut("slow");
 
 
 });
-
-
-/**
- * 1
- * 2
- * 4
- * 
- * 7
- * 8
- * 9
- */
